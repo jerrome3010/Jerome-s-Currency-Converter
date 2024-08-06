@@ -7,6 +7,7 @@ Regular Exchange Tool
 The Regular Exchange Tool allows users to convert between USD and AUD using predefined exchange rates. The current rates as of 6/8/24 :
 - 1 AUD = 0.65 USD
 - 1 USD = 1.54 AUD
+
 This tool is particularly useful for users who need a quick and reliable way to convert amounts between these two currencies without the hassle of manually looking up the exchange rates. By entering the desired amount and selecting the currencies, users can instantly get the converted amount, ensuring accuracy and consistency in their conversions. I often personally used the currency conversion tools when purchasing items from america in particular of the US version of ebay and amazon.
 
 Custom Exchange Tool
